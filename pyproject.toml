@@ -1,0 +1,16 @@
+[project]
+name = "pyenv"
+version = "0.1.1"
+description = "Loading env files"
+authors = [
+    {name = "GicheruBenjamin",email = "benjaminnjuguna77@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
